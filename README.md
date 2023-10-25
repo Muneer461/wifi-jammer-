@@ -5,6 +5,10 @@
 <img src="https://cdn.shortpixel.ai/spai/q_lossy+ret_img/https://i2.wp.com/www.electroniclinic.com/wp-content/uploads/2020/06/NodeMCU_PWM_Pins.png?w=1281&ssl=1" width="300" height="200">
 
 <p>The project uses an ESP8266 board with NodeMCU firmware, which can be programmed using Arduino IDE. The board also has a web interface that allows you to scan for WiFi networks and devices, select targets, create fake networks, and control the jamming process.</p>
-<h2>Disclaimer</h2>
+<h2> requirements  </h2>
+<p>eps8266 MCU node : https://shorturl.at/cirP4 </p> 
+<p>usb cable</p>
+<p> arduino software : https://shorturl.at/cvOW6 </p> 
+<h3>Disclaimer</h3>
 <p>This project is a proof of concept for testing and educational purposes only. Neither the ESP8266 nor its SDK was meant or built for such purposes. Bugs can occur! Use it only against your own networks and devices!</p>
 <p>Please check the legal regulations in your country before using it. We don’t take any responsibility for what you do with this program.</p>
